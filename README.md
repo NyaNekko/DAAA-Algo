@@ -1,8 +1,8 @@
-# 📚 Design & Analysis of Algorithms (DAA)
+# Design & Analysis of Algorithms (DAA)
 ### SY B.Tech — Semester 2
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 DAAA/
@@ -28,7 +28,7 @@ DAAA/
 
 ---
 
-## 🗂️ Assignment Overview
+## Assignment Overview
 
 | # | Topic | Language | Paradigm | Time Complexity |
 |---|-------|----------|----------|-----------------|
@@ -51,7 +51,7 @@ DAAA/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Java (Assignments 1–4)
 ```bash
@@ -70,7 +70,7 @@ g++ -o assignment5 assignment5.cpp
 
 ---
 
-## 📝 Algorithm Notes
+## Algorithm Notes
 
 Detailed pseudocode, concepts, and complexity analysis for all 16 assignments are documented in:
 
@@ -84,7 +84,7 @@ Each entry includes:
 
 ---
 
-## 🧠 Paradigms Covered
+## Paradigms Covered
 
 | Paradigm | Assignments |
 |----------|-------------|
